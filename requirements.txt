@@ -1,0 +1,13 @@
+Backend:
+1. flask
+2. flask_cors
+3. sklearn
+4. PIL
+5. numpy
+6. joblib
+7. numexpr
+
+Frontend:
+1. tailwind-css
+2. React
+3. React-icons
