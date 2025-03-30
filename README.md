@@ -13,3 +13,6 @@ Neppali Puneeth Kumar<br>
 4️. Predicted characters are converted into a valid mathematical expression (e.g., 12 + [4 * 3]).<br>
 5️. The expression is evaluated, and the result is computed.<br>
 6️. The final result is sent back to the frontend and displayed to the user.<br>
+
+# Demo Video
+https://youtu.be/XPrnWEe-GI0?si=55CscSArOOf3xCLN
